@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">tp2</string>
+    <string name="email">Votre e-mail</string>
+    <string name="hint">hint</string>
+
+    <string name="votre_nom">Votre nom</string>
+    <string name="ecrire_votre_nom">Ecrire Votre Nom</string>
+    <string name="ecrire_votre_prenom">Ecrire Votre Prenom</string>
+    <string name="ecrire_votre_email">Ecrire Votre Email</string>
+
+    <string-array name="classe">
+        <item>DSI2</item>
+        <item>DSI3</item>
+        <item>RSI2</item>
+        <item>RSI3</item>
+        <item>SEM2</item>
+        <item>SEM3</item>
+    </string-array>
+</resources>
